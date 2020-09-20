@@ -227,7 +227,7 @@ font-size: 25px;
         padding-bottom: 15px !important;
     }
 }
-@media (max-width: 579px) {
+@media (max-width: 768px) {
     .m{
         padding-top:10px !important;
     }
