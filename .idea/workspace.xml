@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44d594f4-d2e4-4013-b629-e5b00793ded2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gSPVoOqbUNiV2wUuZrv8kdCWGH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44d594f4-d2e4-4013-b629-e5b00793ded2" name="Default Changelist" comment="" />
+      <created>1598105048741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598105048741</updated>
+      <workItem from="1598105049953" duration="860000" />
+      <workItem from="1598106059726" duration="375000" />
+      <workItem from="1598118233761" duration="3247000" />
+      <workItem from="1598129452927" duration="4615000" />
+      <workItem from="1598385882549" duration="51000" />
+      <workItem from="1598386023429" duration="75000" />
+      <workItem from="1598386122848" duration="1690000" />
+      <workItem from="1598453032517" duration="4942000" />
+      <workItem from="1598470970719" duration="6000" />
+      <workItem from="1598478563501" duration="2375000" />
+      <workItem from="1598495519380" duration="23000" />
+      <workItem from="1598549537740" duration="14343000" />
+      <workItem from="1598649036317" duration="5481000" />
+      <workItem from="1598690243678" duration="17721000" />
+      <workItem from="1598716983935" duration="39000" />
+      <workItem from="1598717580248" duration="3672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598702391551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598702391551" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1598454948833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598454948833" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598698069742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598698069742" />
+  </component>
+</project>
